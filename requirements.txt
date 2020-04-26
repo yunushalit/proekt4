@@ -5,5 +5,3 @@ models.news
 datetime
 sqlalchemy.orm
 sqlalchemy.ext.declarative
-.db_session
-.news
